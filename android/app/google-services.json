@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038826652092",
+    "project_id": "slow-down-1703219",
+    "storage_bucket": "slow-down-1703219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038826652092:android:cfe559bd2684dd6b356bb9",
+        "android_client_info": {
+          "package_name": "com.example.slow_down_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038826652092-0423hmbl8h8j95savq1ekonqritv75ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AT1PbQaNQfsg8rN9eUpf1_VdyCTm_Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038826652092-0423hmbl8h8j95savq1ekonqritv75ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
